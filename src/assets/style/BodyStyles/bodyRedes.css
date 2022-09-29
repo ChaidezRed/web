@@ -1,0 +1,17 @@
+.redes .redes-img img{
+height: 64px;
+
+}
+.redes .redes-img{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+.redes {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding-top: 200px;
+    padding-right: 75px;
+    padding-bottom: 40px;
+}

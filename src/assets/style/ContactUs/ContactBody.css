@@ -1,0 +1,30 @@
+.ContactBody{
+    background: #EF974F;
+    display: flex;
+    flex-direction: column;
+    padding-top: 25px;
+}
+.ContactBody .formulario-img .img-contact{
+    background-image: url("../../img/Rectangle6.png");
+    width: 500px;
+    height: 917.97px;
+}
+.ContactBody .formulario-img{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+.ContactBody .title-contact{
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 98px;
+    /* identical to box height */
+    color: #FFFFFF;
+    text-shadow: 0px 12px 4px rgba(0, 0, 0, 0.25);
+}

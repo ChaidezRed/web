@@ -1,0 +1,12 @@
+.body{
+    padding-top: 250px;
+    padding-left: 100px;
+        place-items: center;
+        background-image: url("../../assets/img/fondobody.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        box-sizing: border-box;
+        background-position-x: 0px;
+        background-position-y: 0px;
+
+}
